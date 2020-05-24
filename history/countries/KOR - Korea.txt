@@ -1,0 +1,119 @@
+﻿capital = 525 #서울
+
+#전투 서열
+oob = "KOR_1936"
+
+#안정도
+set_stability = 0.58
+
+#전쟁 지지도
+set_war_support = 0.7
+
+#시작 기술
+set_technology = {
+	infantry_weapons = 1 #기초 보병 장비
+	infantry_weapons1 = 1 #보병 장비 I
+	support_weapons = 1 #지원 화기 I
+
+	tech_support = 1 #지원 장비
+	tech_engineers = 1 #공병 I
+	tech_recon = 1 #수색 I
+
+	gw_artillery = 1 #견인포
+
+	superior_firepower = 1 #압도적인 화력
+	# sup_delay = 1 #지연
+	# mobile_defence = 1 #기동 방어
+}
+
+#국민 정신
+add_ideas = {
+	
+}
+
+#연구 슬롯
+set_research_slots = 3
+
+#수송선
+set_convoys = 10
+
+#연료 비율
+# set_fuel_ratio = 0.5
+
+#지지도
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	fascism = 34
+	neutrality = 45
+	democratic = 20
+	communism = 1
+}
+
+#김구 - 민본협회
+create_country_leader = {
+	name = "Kim Koo"
+	desc = "POLITICS_Kim_Koo_DESC"
+	picture = "gfx/leaders/KOR/Portrait_Kim_Koo.dds"
+	expire = "1965.1.1"
+	ideology = liberalism
+	traits = {
+
+	}
+}
+
+#박헌영 - 대한공산당
+create_country_leader = {
+	name = "Kim Koo"
+	desc = "POLITICS_Kim_Koo_DESC"
+	picture = "gfx/leaders/KOR/Portrait_Kim_Koo.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+
+	}
+}
+
+#김규식 - 제국보수당
+create_country_leader = {
+	name = "Kim Kyu-sik"
+	desc = "POLITICS_Kim_Koo_DESC"
+	picture = "gfx/leaders/KOR/Portrait_Kim_Kyusik.dds"
+	expire = "1965.1.1"
+	ideology = oligarchism
+	traits = {
+
+	}
+}
+
+#육군 원수
+create_field_marshal = {
+	name = "Ji Cheong-cheon"
+	picture = ""
+	traits = {
+		
+	}
+	skill = 4
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 3
+}
+
+#육군 대장
+create_corps_commander = {
+	name = "Lee Beom-seok"
+	picture = ""
+	traits = {		
+		
+	}
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 1
+}

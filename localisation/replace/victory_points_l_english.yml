@@ -1,0 +1,48 @@
+﻿l_english:
+
+ #경기도
+ VICTORY_POINTS_7125:0 "케이죠"   #서울
+ VICTORY_POINTS_7221:0 "진센"     #인천
+ VICTORY_POINTS_12040:0 "카이죠"  #개성
+
+ #강원도
+ VICTORY_POINTS_13238:0 "순센"  #춘천
+ VICTORY_POINTS_9936:0 "겐슈"   #원주
+ VICTORY_POINTS_7021:0 "코료"   #강릉
+
+ #함경도
+ VICTORY_POINTS_6822:0 "세이신" #청진
+ VICTORY_POINTS_6922:0 "죠신"   #성진
+ VICTORY_POINTS_6944:0 "라신"   #나진
+ VICTORY_POINTS_3981:0 "칸코"   #함흥
+ VICTORY_POINTS_848:0 "겐잔"    #원산
+
+ #평안도
+ VICTORY_POINTS_11835:0 "신기슈"  #신의주
+ VICTORY_POINTS_13234:0 "헤이죠"  #평양
+ VICTORY_POINTS_4052:0 "진난포"   #남포
+
+ #황해도
+ VICTORY_POINTS_1003:0 "카이슈" #해주
+
+ #충청도
+ VICTORY_POINTS_11977:0 "타이덴" #대전
+
+ #경상도
+ VICTORY_POINTS_12089:0 "타이큐" #대구
+ VICTORY_POINTS_4056:0 "후잔"    #부산
+
+ #전라도
+ VICTORY_POINTS_13239:0 "젠슈"   #전주
+ VICTORY_POINTS_4126:0 "군산"    #군산
+ VICTORY_POINTS_13240:0 "코슈"   #광주
+ VICTORY_POINTS_10110:0 "모쿠호" #목포
+
+ #제주도
+ VICTORY_POINTS_1177:0 "사이슈" #제주
+
+ #울릉도
+ VICTORY_POINTS_13241:0 "우츠료" #울릉
+
+
+
