@@ -1,29 +1,29 @@
-
 state={
-	id=806
-	name="STATE_806"
+    id=806
+    name="STATE_806"
 
-	history={
-		owner = KOR
-		add_core_of = KOR
-		victory_points = {
-			957
-		buildings = {
-			infrastructure = 4
-			dockyard = 1
-			air_base = 5
-			957 = {
-				naval_base = 8
-				coastal_bunker = 3
+    history={
+        owner = KOR
+        add_core_of = KOR
+        victory_points = {
+            957 10
+        }
+        buildings = {
+            infrastructure = 4
+            dockyard = 1
+            air_base = 5
+        }
+            957 = {
+                naval_base = 3
 
-		}
+        }
 
-	}
+    }
 
-	provinces={
-		810 957 3787 3843 3977 6684 6838 6989 11750 11879 
-	}
-	manpower=9000
-	buildings_max_level_factor=1.000
-	state_category=pastoral
+    provinces={
+        810 957 3787 3843 3977 6684 6838 6989 11750 11879 
+    }
+    manpower=9000
+    buildings_max_level_factor=1.000
+    state_category=pastoral
 }
