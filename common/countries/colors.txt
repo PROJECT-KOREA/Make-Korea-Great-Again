@@ -535,7 +535,3 @@ KOR = {
 	color = rgb { 0  12 180 }
 	color_ui = rgb { 0  12  180 }		
 }
-JOS = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255  240  195 }
-}
