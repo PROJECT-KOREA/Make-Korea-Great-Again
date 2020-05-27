@@ -18,20 +18,6 @@ add_ideas = {
 	JAP_militarism
 }
 
-609 = {
-	start_resistance = yes
-	set_compliance = 5
-	set_resistance = 5
-	set_garrison_strength = 1.0
-}
-
-745 = {
-	start_resistance = yes
-	set_compliance = 5
-	set_resistance = 5
-	set_garrison_strength = 1.0
-}
-
 524 = {
 	start_resistance = yes
 	set_compliance = 5

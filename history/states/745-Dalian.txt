@@ -1,0 +1,34 @@
+
+state={
+	id=745
+	name="STATE_745"
+
+	history={
+		owner = KOR
+		add_core_of = CHI
+		add_core_of = KOR
+		add_core_of = PRC
+		victory_points = {
+			1150 1 
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+			industrial_complex = 1
+			1150 = {
+				naval_base = 5
+				coastal_bunker = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		836 887 892 916 945 964 987 1150 3783 3839 3849 3895 3970 4642 6804 6851 6860 6868 6910 6918 6981 9781 9848 9854 9885 11764 11771 11808 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

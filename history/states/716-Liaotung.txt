@@ -1,0 +1,36 @@
+
+state={
+	id=716
+	name="STATE_716"
+	resources={
+		steel=27.000
+	}
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 5
+			964 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			11771 3 
+		}
+
+	}
+
+	provinces={
+		846 6893 6951 9788 9831 9835 11815 11836 
+	}
+	manpower=10264620
+	buildings_max_level_factor=1.000
+	state_category=city
+}

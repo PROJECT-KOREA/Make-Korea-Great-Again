@@ -1,0 +1,26 @@
+
+state={
+	id=715
+	name="STATE_715"
+
+	history={
+		owner = KOR
+		add_core_of = CHI
+		add_core_of = KOR
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		946 3791 7523 7591 7652 9782 9883 9913 9928 10376 10433 10503 11850 11864 11893 12355 12412 12482 13243 
+	}
+	manpower=3643373
+	buildings_max_level_factor=1.000
+	state_category=town
+}
