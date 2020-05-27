@@ -32,10 +32,10 @@ add_ideas = {
 }
 
 #연구 슬롯
-set_research_slots = 3
+set_research_slots = 4
 
 #수송선
-set_convoys = 10
+set_convoys = 200
 
 #연료 비율
 # set_fuel_ratio = 0.5
@@ -68,9 +68,9 @@ create_country_leader = {
 
 #박헌영 - 대한공산당
 create_country_leader = {
-	name = "Kim Koo"
+	name = "Park Heonyeong"
 	desc = "POLITICS_Kim_Koo_DESC"
-	picture = "gfx/leaders/KOR/Portrait_Kim_Koo.dds"
+	picture = "gfx/leaders/KOR/Portrait_Pak_Honyong.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
