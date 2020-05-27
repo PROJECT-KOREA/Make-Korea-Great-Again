@@ -533,11 +533,7 @@ D15 = {
 }
 KOR = {
 	color = rgb { 0  12 180 }
-	color_ui = rgb { 0  12  180 }	
-}
-PRK = {
-	color = rgb { 157  26  52 }
-	color_ui = rgb { 157  26  52 }	
+	color_ui = rgb { 0  12  180 }		
 }
 JOS = {
 	color = rgb { 255  240  195 }
