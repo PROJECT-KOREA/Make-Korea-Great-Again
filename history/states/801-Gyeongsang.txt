@@ -21,12 +21,12 @@ state = {
 				naval_base = 2
 			}
 		}
-		# victory_points = {
-		# 	12089 40 #대구
-		# }
-		# victory_points = {
-		# 	4056 40 #부산
-		# }
+		victory_points = {
+			12089 40 #대구
+		}
+		victory_points = {
+			4056 40 #부산
+		}
 	}
 
 	resources = {

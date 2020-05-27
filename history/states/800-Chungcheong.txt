@@ -14,12 +14,12 @@ state = {
 			arms_factory = 1
 			infrastructure = 4
 		}
-		# victory_points = {
-		# 	1100 10 #청주
-		# }
-		# victory_points = {
-		# 	11977 15 #대전
-		# }
+		victory_points = {
+			1100 10 #청주
+		}
+		victory_points = {
+			11977 15 #대전
+		}
 	}
 
 	resources = {

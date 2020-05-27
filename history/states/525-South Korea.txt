@@ -23,13 +23,13 @@ state = {
 			7125 50 #서울
 		}
 
-		# victory_points = {
-		# 	7221 15 #인천
-		# }
+		victory_points = {
+			7221 15 #인천
+		}
 
-		# victory_points = {
-		# 	12040 10 #개성
-		# }
+		victory_points = {
+			12040 10 #개성
+		}
 	}
 
 	provinces = {

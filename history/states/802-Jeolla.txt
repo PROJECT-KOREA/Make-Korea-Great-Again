@@ -20,18 +20,18 @@ state = {
 				naval_base = 2
 			}
 		}
-		# victory_points = {
-		# 	13239 10 #전주
-		# }
-		# victory_points = {
-		# 	4126 10 #군산
-		# }
-		# victory_points = {
-		# 	13240 20 #광주
-		# }
-		# victory_points = {
-		# 	10110 10 #목포
-		# }
+		victory_points = {
+			13239 10 #전주
+		}
+		victory_points = {
+			4126 10 #군산
+		}
+		victory_points = {
+			13240 20 #광주
+		}
+		victory_points = {
+			10110 10 #목포
+		}
 	}
 
 	resources = {
