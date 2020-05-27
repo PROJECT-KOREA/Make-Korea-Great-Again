@@ -1,4 +1,4 @@
-﻿capital = 1588
+﻿capital = 761
 
 oob = "MAN_1936"
 
@@ -14,8 +14,6 @@ set_technology = {
 	
 }
 
-}
-
 set_convoys = 0
 
 set_politics = {
@@ -24,6 +22,7 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
 set_popularities = {
 	fascism = 20
 	neutrality = 80
@@ -31,7 +30,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Yi wo"
-	
+	desc = ""
 	picture = "gfx/leaders/MAN/Portrait_Manchuria_Henry_Pu_Yi.dds"
 	expire = "1960.1.1"
 	ideology = despotism
@@ -42,7 +41,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Yi wo"
-	
+	desc = ""
 	picture = "gfx/leaders/MAN/Portrait_Manchuria_Henry_Pu_Yi.dds"
 	expire = "1960.1.1"
 	ideology = rexism
@@ -56,7 +55,6 @@ create_corps_commander = {
 	GFX = "GFX_portrait_man_zhang_haipeng"
 	traits = {  }
 	skill = 2
-	
 	attack_skill = 2
 	defense_skill = 2
 	planning_skill = 1
