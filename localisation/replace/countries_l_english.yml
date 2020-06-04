@@ -28,3 +28,31 @@
  MAN_neutrality_ADJ:0 "요북"
  MAN_communism_ADJ:0 "동타타르"
  
+ #유구
+ LEW_fascism:0 "유구국"
+ LEW_fascism_DEF:0 "유구국"
+ LEW_democratic:0 "유구공화국"
+ LEW_democratic_DEF:0 "유구공화국"
+ LEW_neutrality:0 "유구국"
+ LEW_neutrality_DEF:0 "유구국"
+ LEW_communism:0 "유구인민공화국"
+ LEW_communism_DEF:0 "유구인민공화국"
+ LEW_fascism_ADJ:0 "유구"
+ LEW_democratic_ADJ:0 "유구"
+ LEW_neutrality_ADJ:0 "유구"
+ LEW_communism_ADJ:0 "유구"
+ 
+ #대만
+ TAW_fascism:0 "대만친왕국"
+ TAW_fascism_DEF:0 "대만친왕국"
+ TAW_democratic:0 "대만민국"
+ TAW_democratic_DEF:0 "대만민국"
+ TAW_neutrality:0 "대만친왕국"
+ TAW_neutrality_DEF:0 "대만친왕국"
+ TAW_communism:0 "대만인민공화국"
+ TAW_communism_DEF:0 "대만인민공화국"
+ TAW_fascism_ADJ:0 "대만"
+ TAW_democratic_ADJ:0 "대만"
+ TAW_neutrality_ADJ:0 "대만"
+ TAW_communism_ADJ:0 "대만"
+ 

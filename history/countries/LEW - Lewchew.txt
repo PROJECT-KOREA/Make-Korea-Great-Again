@@ -1,0 +1,51 @@
+﻿capital = 11932
+
+oob = "LEW_1936"
+
+#안정도
+set_stability = 0.58
+
+#전쟁 지지도
+set_war_support = 0.7
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	
+}
+
+set_convoys = 30
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 20
+	neutrality = 80
+}
+
+create_country_leader = {
+	name = "Sho You"
+	desc = ""
+	picture = "gfx/leaders/LEW/Portrait_Lewchew_Sho_You.dds"
+	expire = "1997.8.30"
+	ideology = despotism
+	traits = {
+	
+	}
+}
+
+create_country_leader = {
+	name = "Sho You"
+	desc = ""
+	picture = "gfx/leaders/LEW/Portrait_Lewchew_Sho_You.dds"
+	expire = "1997.8.30"
+	ideology = rexism
+	traits = {
+	
+	}
+}

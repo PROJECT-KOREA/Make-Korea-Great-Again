@@ -535,3 +535,11 @@ KOR = {
 	color = rgb { 0  12 180 }
 	color_ui = rgb { 0  12  180 }		
 }
+TAW = {
+	color = rgb { 20  12 180 }
+	color_ui = rgb { 20  12  180 }		
+}
+LEW = {
+	color = rgb { 12  30 180 }
+	color_ui = rgb { 12  30  180 }		
+}
