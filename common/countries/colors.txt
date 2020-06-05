@@ -423,8 +423,8 @@ BLR = {
 	color_ui = rgb { 180 220 190 }
 }
 MAN = {
-	color = rgb { 120 200 180 }
-	color_ui = rgb { 120 200 180 }
+	color = rgb { 0  12 180 }
+	color_ui = rgb { 0 12 180 }
 }
 ANG = {
 	color = rgb { 37 140 61 }
@@ -536,10 +536,10 @@ KOR = {
 	color_ui = rgb { 0  12  180 }		
 }
 TAW = {
-	color = rgb { 80  60 180 }
-	color_ui = rgb { 80  60  200 }		
+	color = rgb { 120  60 200 }
+	color_ui = rgb { 120  60  200 }		
 }
 LEW = {
-	color = rgb { 12  30 180 }
-	color_ui = rgb { 60  30  200 }		
+	color = rgb { 100  200 240 }
+	color_ui = rgb { 100  200  240 }		
 }
