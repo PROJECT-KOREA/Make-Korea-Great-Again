@@ -536,10 +536,10 @@ KOR = {
 	color_ui = rgb { 0  12  180 }		
 }
 TAW = {
-	color = rgb { 20  12 180 }
-	color_ui = rgb { 20  12  180 }		
+	color = rgb { 80  60 180 }
+	color_ui = rgb { 80  60  200 }		
 }
 LEW = {
 	color = rgb { 12  30 180 }
-	color_ui = rgb { 12  30  180 }		
+	color_ui = rgb { 60  30  200 }		
 }
