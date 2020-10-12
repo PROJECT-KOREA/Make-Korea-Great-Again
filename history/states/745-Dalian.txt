@@ -5,8 +5,8 @@ state={
 
 	history={
 		owner = KOR
-		add_core_of = CHI
 		add_core_of = KOR
+		add_core_of = CHI
 		add_core_of = PRC
 		victory_points = {
 			1150 1 
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		836 887 892 916 945 964 987 1150 3783 3839 3849 3895 3970 4642 6804 6851 6860 6868 6910 6918 6981 9781 9848 9854 9885 11764 11771 11808 
+		836 892 964 987 1150 3783 3839 3849 3895 3970 6804 6851 6860 6910 6918 6981 9781 9854 9885 11764 11771 11808 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

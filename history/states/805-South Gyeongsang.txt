@@ -1,0 +1,37 @@
+
+state={
+	id=805
+	name="STATE_805"
+	resources={
+		steel=40.000
+	}
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		buildings = {
+			industrial_complex = 2
+			dockyard = 2
+			infrastructure = 5
+			4056 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			4056 40 
+		}
+		victory_points = {
+			13249 10 
+		}
+
+	}
+
+	provinces={
+		1054 4056 10011 10085 12060 13249 
+	}
+	manpower=2215000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

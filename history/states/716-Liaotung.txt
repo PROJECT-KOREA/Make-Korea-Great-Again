@@ -7,7 +7,8 @@ state={
 	}
 
 	history={
-		owner = CHI
+		owner = KOR
+		add_core_of = KOR
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
@@ -15,20 +16,20 @@ state={
 			arms_factory = 2
 			industrial_complex = 1
 			air_base = 5
-			964 = {
-				naval_base = 3
+			# 964 = {
+			# 	naval_base = 3
 
-			}
+			# }
 
 		}
-		victory_points = {
-			11771 3 
-		}
+		# victory_points = {
+		# 	11771 3 
+		# }
 
 	}
 
 	provinces={
-		846 6893 6951 9788 9831 9835 11815 11836 
+		800 861 945 3888 3949 6868 6905 9759 9803 9841 9848 11781 11850 
 	}
 	manpower=10264620
 	buildings_max_level_factor=1.000

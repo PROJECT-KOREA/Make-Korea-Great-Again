@@ -4,7 +4,8 @@ state={
 	name="STATE_609"
 
 	history={
-		owner = CHI
+		owner = HCP
+		add_core_of = HCP
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
@@ -21,7 +22,7 @@ state={
 	}
 
 	provinces={
-		881 900 1052 3955 6969 9768 11822 12043 
+		900 1052 3830 3900 6969 10068 11761 11822 12043 
 	}
 	manpower=6400000
 	buildings_max_level_factor=1.000

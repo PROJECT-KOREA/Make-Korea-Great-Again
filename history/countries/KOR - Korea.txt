@@ -63,6 +63,10 @@ if = {
 		target = MAN
 		autonomous_state = autonomy_integrated_puppet
 	}
+	set_autonomy = {
+		target = LAX
+		autonomous_state = autonomy_integrated_puppet
+	}
 }
 if = {
 	limit = { 
@@ -75,6 +79,10 @@ if = {
 		target = MAN
 		autonomous_state = autonomy_puppet
 	}
+	set_autonomy = {
+		target = LAx
+		autonomous_state = autonomy_puppet
+	}
 }
 if = {
 	limit = { 
@@ -84,12 +92,16 @@ if = {
 		target = MAN
 		autonomous_state = autonomy_wtt_imperial_protectorate
 	}
+	set_autonomy = {
+		target = LAX
+		autonomous_state = autonomy_wtt_imperial_protectorate
+	}
 }
 
 #김구 - 민본협회
 create_country_leader = {
 	name = "Kim Koo"
-	desc = "POLITICS_Kim_Koo_DESC"
+	desc = "POLITICS_KIM_KOO_DESC"
 	picture = "gfx/leaders/KOR/Portrait_Kim_Koo.dds"
 	expire = "1965.1.1"
 	ideology = liberalism
@@ -100,8 +112,8 @@ create_country_leader = {
 
 #박헌영 - 대한공산당
 create_country_leader = {
-	name = "Park Heonyeong"
-	desc = "POLITICS_Kim_Koo_DESC"
+	name = "Park Honyong"
+	desc = "POLITICS_PAK_HONYONG_DESC"
 	picture = "gfx/leaders/KOR/Portrait_Pak_Honyong.dds"
 	expire = "1965.1.1"
 	ideology = marxism
@@ -110,10 +122,22 @@ create_country_leader = {
 	}
 }
 
+#김성국 - 국익증진회
+create_country_leader = {
+	name = "Kim Seongguk"
+	desc = "POLITICS_KIM_SEONGGUK_DESC"
+	picture = "gfx/leaders/KOR/Portrait_Kim_Kyusik.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+
+	}
+}
+
 #김규식 - 제국보수당
 create_country_leader = {
-	name = "Kim Kyu-sik"
-	desc = "POLITICS_Kim_Koo_DESC"
+	name = "Kim Kyusik"
+	desc = "POLITICS_KIM_KYUSIK_DESC"
 	picture = "gfx/leaders/KOR/Portrait_Kim_Kyusik.dds"
 	expire = "1965.1.1"
 	ideology = oligarchism
@@ -124,7 +148,7 @@ create_country_leader = {
 
 #육군 원수
 create_field_marshal = {
-	name = "Ji Cheong-cheon"
+	name = "Ji Cheongcheon"
 	picture = ""
 	traits = {
 		

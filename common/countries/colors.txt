@@ -422,10 +422,6 @@ BLR = {
 	color = rgb { 180 220 190 }
 	color_ui = rgb { 180 220 190 }
 }
-MAN = {
-	color = rgb { 0  6 90 }
-	color_ui = rgb { 0 6 90 }
-}
 ANG = {
 	color = rgb { 37 140 61 }
 	color_ui = rgb { 37 140 61 }
@@ -470,6 +466,30 @@ ISR = {
 CSA = {
 	color = rgb { 145 163 176  }
 	color_ui = rgb { 186 205 219 }
+}
+KOR = {
+	color = rgb { 0 52 120 }
+	color_ui = rgb { 0 52 120 }
+}
+MAN = {
+	color = rgb { 39 73 183 }
+	color_ui = rgb { 39 73 183 }
+}
+LAX = {
+	color = rgb { 62 104 245 }
+	color_ui = rgb { 62 104 245 }	
+}
+TAW = {
+	color = rgb { 120  60 200 }
+	color_ui = rgb { 120  60  200 }		
+}
+LEW = {
+	color = rgb { 100  200 240 }
+	color_ui = rgb { 100  200  240 }		
+}
+HCP = {
+	color = rgb { 93 181 227 }
+	color_ui = rgb { 93 181 227 }
 }
 D01 = {
 	color = rgb { 200 100 31 }
@@ -530,16 +550,4 @@ D14 = {
 D15 = {
 	color = rgb { 194 140 86 }
 	color_ui = rgb { 252 182 112 }
-}
-KOR = {
-	color = rgb { 0  12 180 }
-	color_ui = rgb { 0  12  180 }		
-}
-TAW = {
-	color = rgb { 120  60 200 }
-	color_ui = rgb { 120  60  200 }		
-}
-LEW = {
-	color = rgb { 100  200 240 }
-	color_ui = rgb { 100  200  240 }		
 }

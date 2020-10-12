@@ -1,4 +1,4 @@
-﻿capital = 7186
+﻿capital = 524
 
 oob = "TAW_1936"
 

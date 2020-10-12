@@ -1,0 +1,34 @@
+
+state={
+	id=409
+	name="STATE_409"
+	resources={
+		chromium=9.000
+	}
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		add_core_of = CHI
+		# victory_points = {
+		# 	12189 1 
+		# }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 4
+			# 9604 = {
+			# 	naval_base = 1
+
+			# }
+
+		}
+	}
+
+	provinces={
+		4551 7569 9623 10215 10521 12342 12443 12500 
+	}
+	manpower=295605
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

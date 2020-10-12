@@ -11,20 +11,16 @@ state = {
 		
 		buildings = {
 			industrial_complex = 1
-			arms_factory = 1
 			infrastructure = 3
 		}
-		
 		victory_points = {
-			13238 10 #춘천
+			13243 10 #춘천(슌센)
 		}
-
 		victory_points = {
-			9936 10 #원주
+			9936 10 #원주(겐슈)
 		}
-
 		victory_points = {
-			7021 10 #강릉
+			7021 10 #강릉(코료)
 		}
 	}
 
@@ -34,6 +30,6 @@ state = {
 	}
 
 	provinces = {
-		1148 4004 7021 9936 9981 11912 11958 12011 13238
+		1148 4004 7021 9936 9981 11912 11958 12011 13243
 	}
 }
